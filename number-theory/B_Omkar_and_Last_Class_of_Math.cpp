@@ -8,18 +8,8 @@ Link- https://codeforces.com/contest/1372/problem/B
 
 
 #include<bits/stdc++.h>
-#include<numeric>
 #define int long long
 #define e '\n'
-#define cn cout<<"NO"<<e
-#define cy cout<<"YES"<<e
-#define pb push_back
-#define vecc vector<int>vec(n)
-#define arrforin for(int i=0;i<n;i++){  cin>>arr[i];  }
-#define vecforin for(int i=0;i<n;i++){  cin>>vec[i];  }
-#define arrsort sort(arr,arr+n)
-#define vecsort sort(vec.begin(),vec.end())
-#define vecrev reverse(vec.begin(),vec.end())
 using namespace std;
 
 bool steveharrington(int n){
