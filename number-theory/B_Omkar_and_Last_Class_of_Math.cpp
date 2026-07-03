@@ -1,3 +1,12 @@
+/*
+problem- B. Omkar and Last Class of Math
+platform- Codeforces  
+Rating- 1300
+Link- https://codeforces.com/contest/1372/problem/B
+*/
+
+
+
 #include<bits/stdc++.h>
 #include<numeric>
 #define int long long
